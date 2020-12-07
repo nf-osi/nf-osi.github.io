@@ -1,3 +1,13 @@
 title: NF Data Portal Docs
 description: NF Data Portal documentation and tutorials for data sharing, data standards, and more. 
+
+# adds remote jekyll theme
 remote_theme: pmarsceill/just-the-docs
+
+# aux links for upper right navigation
+aux_links:
+  "NF Data Portal":
+    - "https://nf.synapse.org/"
+
+# if true, makes aux links open in a new tab
+aux_links_new_tab: true
