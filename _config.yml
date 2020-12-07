@@ -6,7 +6,7 @@ remote_theme: pmarsceill/just-the-docs
 
 # aux links for upper right navigation
 aux_links:
-  "NF Data Portal":
+  "Return to NF Data Portal":
     - "https://nf.synapse.org/"
 
 # if true, makes aux links open in a new tab
