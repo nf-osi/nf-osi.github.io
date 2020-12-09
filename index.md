@@ -4,14 +4,14 @@ The Neurofibromatosis Open Science Initiative (NF-OSI) was built to promote a co
 
 For new NF Data Portal users, it may be useful to understand the portal structure and general data flow, or lifecycle. At a glance, the portal organizes information as follows:
 
-![Graph showing the flow of portal information from funding organizations, to initiatives, to studies, to data files, datasets, publications, and tools.](https://github.com/nf-osi/nf-osi.github.io/blob/main/assets/images/portal_organization.png)
+![Graph showing the flow of portal information from funding organizations, to initiatives, to studies, to data files, datasets, publications, and tools.](https://raw.githubusercontent.com/nf-osi/nf-osi.github.io/main/assets/images/portal_organization.png)
 
 Funding organizations — including [Children’s Tumor Foundation (CTF)](https://www.ctf.org/), [Neurofibromatosis Therapeutic Acceleration Program (NTAP)](http://www.n-tap.org/), and [Gilbert Family Foundation (GFF)](https://gilbertfamilyfoundation.org/) — support researchers who design experimental studies. These studies are sometimes part of a group of funded projects, which are called an initiative on the portal. Funded studies produce data files, metadata (also called annotations), publications, and biological tools like cell lines, mouse models, and plasmids. Study products, such as multiple data files, may be bundled into a dataset, or explored and analyzed with computational tools developed by the community.
 
 For an in-depth review of the NF Data Portal’s community engagement and structure, please see our article in Scientific Data (Allaway, et al., 2019). 
 
 The NF data portal research lifecycle operates as follows: 
-![Circular flow chart showing data portal lifecyle from data generation to curation, analysis, interpretation, and dissemination, back to data generation.](https://github.com/nf-osi/nf-osi.github.io/blob/main/assets/images/portal_lifecycle.png)
+![Circular flow chart showing data portal lifecyle from data generation to curation, analysis, interpretation, and dissemination, back to data generation.](https://raw.githubusercontent.com/nf-osi/nf-osi.github.io/main/assets/images/portal_lifecycle.png)
 
 Portal users can engage with one, a few, or all of these stages, and each stage surfaces on the portal in different ways. 
 1. During the **data generation** phase, data are uploaded to the  data storage platform, Synapse. During this phase, the data are typically not available for download on the portal, but  some information is exposed, such as study title, study description, and metadata.
