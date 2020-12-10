@@ -25,3 +25,7 @@ While the exact process has some variations across our data portals and reposito
 4. **Determine data access controls.** At Sage, we call the practice of determining how data should be shared data governance, and this stage encompasses data licensing, as well as deciding how the data should be accessed, and by whom. Many datasets on our portals are unrestricted and open to the public, but some data require access controls, such as data use agreements and institutional review board approval. 
 5. **Share data.** After the above steps are complete, you’re finally ready to share your data with others, whether fully open or with restrictions. Often, this step occurs some time after the above processes, once a publication embargo period lifts.
 6. **Access data.** Once your data is shared, it’s now accessible to others, including yourself and your colleagues. Because of the steps above, that data will be [FAIR](https://www.go-fair.org/fair-principles/) — a standard representing findable, accessible, interoperable, and reusable data. FAIR data are discoverable to users through precise metadata, understandable in terms of how the data can be used, machine-readable to enable computational analysis, and ultimately, fit for reuse. 
+
+### Related Documentation
+- [How to Share Your Data on the NF Data Portal (Step-by-Step Guide)](https://nf-osi.github.io/howto_share_data.html)
+- [Getting Started on Synapse](https://docs.synapse.org/articles/getting_started.html)
