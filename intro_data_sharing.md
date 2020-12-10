@@ -1,7 +1,7 @@
 ---
 title: Intro to Data Sharing
 parent: About the Portal
-has_children: true
+has_children: false
 nav_order: 2
 ---
 
