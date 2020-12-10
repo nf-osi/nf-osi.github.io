@@ -1,7 +1,7 @@
 ---
 title: About the NF Data Portal and Our Data Lifecycle
 parent: About the Portal
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
