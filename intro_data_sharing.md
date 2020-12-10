@@ -1,5 +1,5 @@
 ---
-title: Intro - Data Sharing
+title: Intro to Data Sharing
 parent: About the Portal
 has_children: true
 nav_order: 2
