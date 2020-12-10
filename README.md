@@ -3,7 +3,15 @@
 Visit the docs site at [https://nf-osi.github.io/](https://nf-osi.github.io/).
 
 ### Contribution
-Workflow strategy to come!
+Contribution/workflow strategy to come!
+
+### How to Add a Doc to Navigation
+For top-level (parent) docs, add the following items, one on each line: 'title', 'has_children' (true | false), and 'nav_order' (integer); and enclose with '---' before and after.
+For mid-level (child) docs, add add the following items, one on each line: 'title', 'parent' ('title' of parent doc), 'has_children' (true | false), and 'nav_order' (integer); and enclose with '---' before and after.
+For bottom-level (grandchild) docs, add the following items, one on each line: 'title', 'parent' ('title' of parent doc), 'grand_parent' ('title' of child doc above it), 'has_children' (true | false), and 'nav_order' (integer); and enclose with '---' before and after.
+See examples:
+- [Parent doc](https://github.com/nf-osi/nf-osi.github.io/blob/main/about.md)
+- [Child doc](https://github.com/nf-osi/nf-osi.github.io/blob/main/about_portal_lifecycle.md)
 
 ### Powered By
 * [jekyll](https://jekyllrb.com/)
