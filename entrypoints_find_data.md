@@ -23,7 +23,7 @@ One of the most common ways to find data on portals is through a feature called 
 2. For a high-level view of the kinds of data available in a portal, browse our visualizations — typically found at the top of an Explore module (read more in the step-by-step guide noted below).
 3. Drill down into a ‘Detail’ page, such as an Organization or Study. For instance, you can view all studies, data, and publications associated with a particular organization, such as [Children’s Tumor Foundation](). 
 
-For step-by-step instructions, review [How to Find Data in the NF Data Portal(https://nf-osi.github.io/howto_find_data.html). 
+For step-by-step instructions, review [How to Find Data in the NF Data Portal](https://nf-osi.github.io/howto_find_data.html). 
 
 ### Related Documentation
 * [Downloading Data](https://user-guides.synapse.org/articles/downloading_data.html)
