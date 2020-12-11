@@ -15,7 +15,7 @@ For new NF Data Portal users, it may be useful to understand the portal structur
 
 Funding organizations — including [Children’s Tumor Foundation (CTF)](https://www.ctf.org/), [Neurofibromatosis Therapeutic Acceleration Program (NTAP)](http://www.n-tap.org/), and [Gilbert Family Foundation (GFF)](https://gilbertfamilyfoundation.org/) — support researchers who design experimental studies. These studies are sometimes part of a group of funded projects, which are called an initiative on the portal. Funded studies produce data files, metadata (also called annotations), publications, and biological tools like cell lines, mouse models, and plasmids. Study products, such as multiple data files, may be bundled into a dataset, or explored and analyzed with computational tools developed by the community.
 
-For an in-depth review of the NF Data Portal’s community engagement and structure, please see our article in Scientific Data<sup>1</sup>. 
+For an in-depth review of the NF Data Portal’s community engagement and structure, please see our article in _Scientific Data_<sup>1</sup>. 
 
 The NF data portal research lifecycle operates as follows: 
 
