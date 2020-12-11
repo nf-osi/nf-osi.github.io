@@ -25,5 +25,8 @@ You can also visit this page directly at: [https://nf.synapse.org/Explore/Studie
 ![Filtering with the sidebar.](https://nf-osi.github.io/assets/images/howtofind_filter_published.png) 
 6. If you want to conduct a new search, deselect any of your previous filters (x) before starting again. If you wish to share your search results with a collaborator, copy the url — see the above search at this [URL](https://nf.synapse.org/Explore/Studies?QueryWrapper0=%7B%22sql%22%3A%22SELECT%20*%20FROM%20syn16787123%22%2C%22limit%22%3A25%2C%22offset%22%3A0%2C%22additionalFilters%22%3A%5B%7B%22columnName%22%3A%22summary%22%2C%22operator%22%3A%22LIKE%22%2C%22values%22%3A%5B%22%25plexiform%25%22%5D%2C%22concreteType%22%3A%22org.sagebionetworks.repo.model.table.ColumnSingleValueQueryFilter%22%7D%5D%2C%22selectedFacets%22%3A%5B%7B%22concreteType%22%3A%22org.sagebionetworks.repo.model.table.FacetColumnValuesRequest%22%2C%22columnName%22%3A%22studyStatus%22%2C%22facetValues%22%3A%5B%22Completed%22%5D%7D%2C%7B%22concreteType%22%3A%22org.sagebionetworks.repo.model.table.FacetColumnValuesRequest%22%2C%22columnName%22%3A%22dataStatus%22%2C%22facetValues%22%3A%5B%22Published%22%5D%7D%5D%7D) — at the top of your page to preserve your filters. 
 
+### Note
+Portal components are regularly updated by our design team. While we strive to keep these instructions up to date, please note that some changes may have occurred.
+
 ### Related Documentation
 * [Finding and Downloading Files (Programatically)](https://user-guides.synapse.org/articles/downloading_data.html#finding-and-downloading-files)
