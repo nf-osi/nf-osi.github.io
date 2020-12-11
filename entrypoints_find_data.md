@@ -1,8 +1,8 @@
 ---
-title: Intro to Data Sharing
+title: Entry Points for Finding Data
 parent: About the Portal
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Suggested Entry Points for Finding Portal Data
