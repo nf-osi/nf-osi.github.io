@@ -29,9 +29,7 @@ Portal users can engage with one, a few, or all of these stages, and each stage 
 5. **Data dissemination** includes the NF Data Portal, journal publications, and other means of data distribution. 
 
 ### Related Documentation
-- How to Find Data
-- Introduction to Data Sharing
-- NF Portal Glossary
+- [Introduction to Data Sharing](https://nf-osi.github.io/intro_data_sharing.html)
 
 ### References
 1. Allaway, R.J., La Rosa, S., Verma, S. et al. Engaging a community to enable disease-centric data sharing with the NF Data Portal. Sci Data 6, 319 (2019). https://doi.org/10.1038/s41597-019-0317-x
