@@ -10,7 +10,7 @@ nav_order: 1
 If you would like to submit data to the [NF Data Portal](https://nf.synapse.org/), steps to do so are outlined below. Please note that if your project has been funded by one of our [partners](https://nf.synapse.org/#Our%20Partners), we will be in touch with you, and you may have additional obligations to fulfill beyond the steps below, such as attending onboarding.
 
 ## Data Sharing Step-by-Step
-1. **[Become a certified Synapse user]**(https://docs.synapse.org/articles/getting_started.html). This involves:
+1. **[Become a certified Synapse user](https://docs.synapse.org/articles/getting_started.html)**. This involves:
 - [Creating an account](https://www.synapse.org/register)
 - [Taking a short quiz to be certified](https://www.synapse.org/#!Quiz:Certification)
 - [Linking your ORCID account to your profile](https://docs.synapse.org/articles/user_profiles.html)  (_optional, but recommended_) 
