@@ -7,7 +7,7 @@ nav_order: 1
 
 # How to Share Your Data on the NF Data Portal
 
-If you would like to submit data to the [NF Data Portal](https://nf.synapse.org/), steps to do so are outlined below. Please note that if your project has been funded by one of our partners, we will be in touch with you, and you may have additional obligations to fulfill beyond the steps below, such as attending onboarding.
+If you would like to submit data to the [NF Data Portal](https://nf.synapse.org/), steps to do so are outlined below. Please note that if your project has been funded by one of our [partners[(https://nf.synapse.org/#Our%20Partners), we will be in touch with you, and you may have additional obligations to fulfill beyond the steps below, such as attending onboarding.
 
 ## Data Sharing Step-by-Step
 1. [Become a certified Synapse user](https://docs.synapse.org/articles/getting_started.html). This involves:
@@ -20,7 +20,7 @@ If you would like to submit data to the [NF Data Portal](https://nf.synapse.org/
 - Any additional project contributors/authors
 - Any supplementary materials you want to include with the data, such as publications, code, etc.
 4. If your data are already generated and ready for public release, ensure that:
-- You have the appropriate permission and authority to do so (such as Institutional Review Board approval, informed consent, etc.). If you need to place access restrictions on your data, please detail these in your data sharing plan.
+- You have the appropriate permission and authority to do so (such as Institutional Review Board approval, informed consent, etc.). If you need to place [conditions for use (access restrictions)](https://docs.synapse.org/articles/access_controls.html#toc-conditions-for-use) on your data, please detail these in your data sharing plan.
 - Your data are annotated with metadata. (Note: we may ask you to validate your metadata, and will provide information about this process at the time.) 
 5. Once you’ve completed the steps above, send an email to [nf-osi@sagebionetworks.org](mailto:nf-osi@sagebionetworks.org) with the following information:
 - Your Synapse user ID
