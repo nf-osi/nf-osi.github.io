@@ -11,3 +11,7 @@ aux_links:
 
 # if true, makes aux links open in a new tab
 aux_links_new_tab: true
+
+# Google Analytics Tracking
+ga_tracking:  UA-185743608-1 
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
