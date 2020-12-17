@@ -21,8 +21,8 @@ If you would like to submit data to the [NF Data Portal](https://nf.synapse.org/
 4. Once you’ve completed the steps above, **send an email to [nf-osi@sagebionetworks.org](mailto:nf-osi@sagebionetworks.org) with the following information:**
 - **Your Synapse user ID**
 - **Your completed DSP**
-- **Project abstract**
-- **Any additional project contributors/authors** (Note: to access the data, they will need to create an account; to upload data, they will need to be certified -- see step #1)
+- **Project title and abstract** (_Note: this will appear on the [NF Data Portal](https://nf.synapse.org/)._)
+- **Any additional project contributors/authors**, if not detailed in DSP (_Note: to access the data, they will need to create an account; to upload data, they will need to be certified -- see step #1_)
 - **Any supplementary materials** you want to include with the data, such as publications, code, etc.
 - If applicable, additional info from step #3 above
 5. Once we receive your information, we’ll review your submission, and (if approved) work with you to deposit your data in Synapse. Once all data is deposited and the embargo period ends, we'll share your data on the [NF Data Portal](https://nf.synapse.org/). 
