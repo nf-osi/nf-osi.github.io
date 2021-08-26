@@ -4,6 +4,4 @@ has_children: true
 nav_order: 2
 ---
 
-# About the NF Data Portal
-
-In this section, learn about the portal and our data lifecycle, as well as receive an introduction to our core practices, including data sharing and data standards. 
+This document has been deprecated. You can find the equivalent document on our new documentation website [here](https://help.nf.synapse.org/NFdocs/About.1994489865.html)!
